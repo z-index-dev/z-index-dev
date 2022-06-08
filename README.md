@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Zach Shelton
 - 👀 I’m interested in all things JavaScript and modern web development, minus the web3 and crypto spaces (happy to talk about why)
-- 🌱 I’m currently all-in on the React universe, currently focusing on TypeScript and Next.js
+- 🌱 I’m currently all-in on the React universe, mainly focusing on TypeScript and Next.js
 - 📫 Reach me at zachshelton91 at gmail!
 
 <!---
